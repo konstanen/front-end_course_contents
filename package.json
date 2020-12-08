@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "taalta loytyy frontend-kamaa",
   "main": "index.js",
-  "homepage": "https://konstane.github.io/front-end_course_contents",
+  "homepage": "https://konstanen.me/front-end_course_contents",
   "scripts": {
     "sass": "node-sass -w scss/ -o dist/css/ --recursive"
   },
